@@ -2,6 +2,7 @@
 #BIDAF
 
 Multi-passage MRC
+
 rc_model origin 
 
 rc_model4 origin+self-attention in match_layer
